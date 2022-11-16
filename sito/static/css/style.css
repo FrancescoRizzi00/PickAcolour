@@ -20,3 +20,19 @@ line-height: 94px;
 letter-spacing: 0.03em;
 color: #FFFFFF;
 }
+
+.subtitle{
+    position: absolute;
+    width: 622px;
+    height: 27px;
+    left: 649px;
+    top: 512px;
+    font-family: 'Russo One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 27px;
+    /* identical to box height */
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+}
