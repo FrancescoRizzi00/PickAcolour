@@ -1,5 +1,4 @@
 .sfondo{
-    background: red; 
     height: 1000px;
     width: 100%;
 }
@@ -19,6 +18,10 @@ line-height: 94px;
 /* identical to box height */
 letter-spacing: 0.03em;
 color: #FFFFFF;
+}
+
+body{
+    background-color: red;
 }
 
 .subtitle{
